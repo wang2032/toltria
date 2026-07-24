@@ -224,3 +224,5 @@ YYYY-MM-DD/
 - 主事件
 - 角度
 - 下次应避免重复的点
+
+| 2026-07-24 | article-1 | AMD押注Anthropic，AI真正的成本战才刚开始 | AMD 宣布向 Anthropic 投资最高 50 亿美元，Anthropic 计划从 2027 年起采购最多 2GW AMD AI 芯片 | 从普通用户和中小企业的工具价格、额度和稳定性切入，解释 AI 竞争为何已经转到算力、供电和机房 | 下次不要再用 AMD/Anthropic 算力合作做主线；若跟进需换成 Claude 定价变化、AMD 交付进展或数据中心供电/供应链影响 |
